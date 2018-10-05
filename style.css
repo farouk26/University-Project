@@ -271,16 +271,16 @@ footer h2{
 .statistic{
     background: #D4E6F1;
     margin-top: 15px;
-    height: 200px;
 }
 .statistic h1{
+    padding-top: 15px;
     text-align: center;
-    padding-top: 50px;
+    font-size: 50px;
 }
-.statistic h4{
-    display: inline;
-    padding: 0 20px;
-    margin-left: 52px;
+.statistic p{
+    display: block;
+    font-size: 25px;
+    text-align: center;
 }
 
 
