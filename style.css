@@ -135,6 +135,7 @@ nav .btn{
 /* Side-Content */
 .card{
     margin-top: 15px;
+    background: #F8F9F9;
 }
 .card-body h3{
     text-align: center;
@@ -266,6 +267,20 @@ footer h2{
 }
 .fin-anne iframe{
     margin-top: 15px;
+}
+.statistic{
+    background: #D4E6F1;
+    margin-top: 15px;
+    height: 200px;
+}
+.statistic h1{
+    text-align: center;
+    padding-top: 50px;
+}
+.statistic h4{
+    display: inline;
+    padding: 0 20px;
+    margin-left: 52px;
 }
 
 
