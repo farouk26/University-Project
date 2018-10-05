@@ -3,7 +3,6 @@ html, body { overflow-x: hidden; }
 
 /* Extras */
 nav .hvr-shutter-in-horizontal::before{
-    border-radius: 5px;
     background: #1C2833;
 
 }
@@ -12,8 +11,8 @@ nav .hvr-shutter-in-horizontal{
     opacity: 0.7;
 }
 nav .hvr-shutter-out-horizontal:before{
-    background: #B7950B;
     border-radius: 5px;
+    background: #B7950B;
     opacity: 0.7;
 }
 nav .hvr-shutter-out-horizontal{
