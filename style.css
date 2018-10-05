@@ -234,6 +234,9 @@ font-weight: bold;
     text-decoration: none;
     color: rgb(17, 100, 179);
 }
+.mid-content h1{
+    text-align: center;
+}
 /* Social Medias */
 .social-media{
     margin-top: 5px;
@@ -255,6 +258,14 @@ footer{
 }
 footer h2{
     color: #D4E6F1;
+}
+/* fin anne */
+.fin-anne h1{
+    text-align: center;
+    margin-top: 15px;
+}
+.fin-anne iframe{
+    margin-top: 15px;
 }
 
 
