@@ -24,6 +24,7 @@ background: #1C2833;
 /* Navbar */
 nav{
     background: #1C2833;
+    height: 50px;
 }
 nav ul li{
     padding: 0 10px;
